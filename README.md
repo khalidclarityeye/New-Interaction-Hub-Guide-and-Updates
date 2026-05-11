@@ -9,4 +9,4 @@
 [Open Interaction Hub - New Updates](New%20Updates/Interaction%20Hub%20-%20New%20Updates.pdf)
 
 ### Fax Guide
-[Open How To Send Fax Guide](Fax%20Guide/New%20Interaction%20Hub%20-%20How%20To%20Send%20Fax.pdf)
+[Open Interaction Hub - How To Send Fax](Fax%20Guide/Interaction%20Hub%20-%20How%20To%20Send%20Fax.pdf)
